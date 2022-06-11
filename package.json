@@ -1,0 +1,32 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/vue-fontawesome": "^3.0.0-5",
+    "@tailwindcss/line-clamp": "^0.4.0",
+    "autoprefixer": "^10.4.7",
+    "nuxt": "3.0.0-rc.1",
+    "postcss": "^8.4.13",
+    "tailwindcss": "^3.0.24"
+  },
+  "dependencies": {
+    "@fortawesome/free-brands-svg-icons": "^6.1.1",
+    "@fortawesome/free-regular-svg-icons": "^6.1.1",
+    "@pinia/nuxt": "^0.1.9",
+    "@wangeditor/editor": "^5.0.0",
+    "@wangeditor/editor-for-vue": "^5.1.10",
+    "formdata-polyfill": "^4.0.10",
+    "pinia": "^2.0.14",
+    "pinia-plugin-persistedstate": "^1.5.1",
+    "unplugin-vue-components": "^0.17.18",
+    "vue-clipboard3": "^2.0.0",
+    "vue3-lazyload": "^0.3.0"
+  }
+}
